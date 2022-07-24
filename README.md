@@ -1,1 +1,2 @@
-# the_game-Find_a_couple-
+# The game "Find a couple"
+# Игра "Найди пару"
